@@ -117,14 +117,14 @@ namespace SteamCondensor.Steam.Servers
 			get { return serverInfo.Tags; }
 		}
 
-		public List<ServerRule> ServerRules
+		public IList<ServerRule> ServerRules
 		{
-			get { return serverRules; }
+			get { return serverRules.AsReadOnly(); }
 		}
 
-		public List<SteamPlayer> PlayerList
+		public IList<SteamPlayer> PlayerList
 		{
-			get { return playerList; }
+			get { return playerList.AsReadOnly(); }
 		}
 
 		public IPAddress IPAddress
