@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace SteamCondensor.Steam.Packets
+namespace SteamCondenser.Steam.Packets
 {
 	public class SourceServerInfoResponsePacket : SteamPacket
 	{

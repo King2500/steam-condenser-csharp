@@ -4,9 +4,9 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 using System.IO;
-using SteamCondensor.Steam.Packets;
+using SteamCondenser.Steam.Packets;
 
-namespace SteamCondensor.Steam.Sockets
+namespace SteamCondenser.Steam.Sockets
 {
 	public abstract class SteamSocket
 	{

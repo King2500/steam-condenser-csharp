@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SteamCondensor.Steam
+namespace SteamCondenser.Steam
 {
 	public class SteamPlayer
 	{

@@ -5,7 +5,7 @@ using System.IO;
 using ICSharpCode.SharpZipLib.BZip2;
 using ICSharpCode.SharpZipLib.Checksums;
 
-namespace SteamCondensor.Steam.Packets
+namespace SteamCondenser.Steam.Packets
 {
 	public class SteamPacket
 	{

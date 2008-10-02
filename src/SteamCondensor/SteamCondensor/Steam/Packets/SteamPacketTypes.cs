@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SteamCondensor.Steam.Packets
+namespace SteamCondenser.Steam.Packets
 {
 	public enum SteamPacketTypes : byte
 	{

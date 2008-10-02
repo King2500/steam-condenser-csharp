@@ -7,8 +7,8 @@
     <ProjectGuid>{450045CE-EA08-49BA-AAA2-416E98E89EDC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SteamCondensor</RootNamespace>
-    <AssemblyName>SteamCondensor</AssemblyName>
+    <RootNamespace>SteamCondenser</RootNamespace>
+    <AssemblyName>SteamCondenser</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -57,7 +57,7 @@
     <Compile Include="Steam\SteamPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="SteamCondensor.cd" />
+    <None Include="SteamCondenser.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

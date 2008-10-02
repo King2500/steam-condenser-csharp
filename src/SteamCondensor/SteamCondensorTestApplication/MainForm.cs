@@ -7,10 +7,10 @@ using System.Text;
 using System.Windows.Forms;
 using System.Net;
 using System.Net.Sockets;
-using SteamCondensor.Steam;
-using SteamCondensor.Steam.Servers;
+using SteamCondenser.Steam;
+using SteamCondenser.Steam.Servers;
 
-namespace SteamCondensorTestApplication
+namespace SteamCondenserTestApplication
 {
 	public partial class MainForm : Form
 	{

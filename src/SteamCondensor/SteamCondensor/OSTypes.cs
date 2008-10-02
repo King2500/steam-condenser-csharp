@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SteamCondensor
+namespace SteamCondenser
 {
 	public enum OSTypes
 	{

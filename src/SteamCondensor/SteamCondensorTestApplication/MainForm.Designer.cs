@@ -1,4 +1,4 @@
-﻿namespace SteamCondensorTestApplication
+﻿namespace SteamCondenserTestApplication
 {
 	partial class MainForm
 	{

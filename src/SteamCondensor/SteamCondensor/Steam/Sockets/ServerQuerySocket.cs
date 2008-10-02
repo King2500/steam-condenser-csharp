@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Net;
-using SteamCondensor.Steam.Packets;
+using SteamCondenser.Steam.Packets;
 using System.IO;
 
 
-namespace SteamCondensor.Steam.Sockets
+namespace SteamCondenser.Steam.Sockets
 {
 	public abstract class ServerQuerySocket : SteamSocket
 	{

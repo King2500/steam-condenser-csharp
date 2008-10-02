@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace SteamCondensorTestApplication
+namespace SteamCondenserTestApplication
 {
 	static class Program
 	{

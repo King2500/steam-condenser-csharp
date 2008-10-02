@@ -7,8 +7,8 @@
     <ProjectGuid>{F4FD01F2-EA52-4068-B1A5-BF03D2B30C26}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SteamCondensorTestApplication</RootNamespace>
-    <AssemblyName>SteamCondensorTestApplication</AssemblyName>
+    <RootNamespace>SteamCondenserTestApplication</RootNamespace>
+    <AssemblyName>SteamCondenserTestApplication</AssemblyName>
     <ApplicationIcon>steam_condenser_02.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -58,6 +58,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -70,9 +71,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SteamCondensor\SteamCondensor.csproj">
+    <ProjectReference Include="..\SteamCondensor\SteamCondenser.csproj">
       <Project>{450045CE-EA08-49BA-AAA2-416E98E89EDC}</Project>
-      <Name>SteamCondensor</Name>
+      <Name>SteamCondenser</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

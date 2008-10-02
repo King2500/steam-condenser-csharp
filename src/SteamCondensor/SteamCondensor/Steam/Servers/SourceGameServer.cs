@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Net;
-using SteamCondensor.Steam.Packets;
-using SteamCondensor.Steam.Sockets;
+using SteamCondenser.Steam.Packets;
+using SteamCondenser.Steam.Sockets;
 
-namespace SteamCondensor.Steam.Servers
+namespace SteamCondenser.Steam.Servers
 {
 	public class SourceGameServer : GameServer
 	{
