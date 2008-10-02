@@ -71,7 +71,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SteamCondensor\SteamCondenser.csproj">
+    <ProjectReference Include="..\SteamCondenser\SteamCondenser.csproj">
       <Project>{450045CE-EA08-49BA-AAA2-416E98E89EDC}</Project>
       <Name>SteamCondenser</Name>
     </ProjectReference>
